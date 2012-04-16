@@ -97,7 +97,7 @@ body{font-size:16px;}
   * { background: transparent !important; color: black !important; filter:none !important; -ms-filter: none !important; }
   body{font-size:12pt; max-width:100%;}
   a, a:visited { text-decoration: underline; }
-  hr { height: 0px; border:0; border-bottom:1px solid black; }*/
+  hr { height: 0px; border:0; border-bottom:0px solid white; }
   
   a[href]:after { content: " (" attr(href) ")"; }
   abbr[title]:after { content: " (" attr(title) ")"; }
